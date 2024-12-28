@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace cadastro_cliente
 {
-    public partial class Form1 : Form
+    public partial class frmCadCliente : Form
     {
-        public Form1()
+        public frmCadCliente()
         {
             InitializeComponent();
+        }
+
+        private void frmCadCliente_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter) {
+                SendKeys.Send("{TAB}");
+                e.SuppressKeyPress = true;
+            }
         }
     }
 }

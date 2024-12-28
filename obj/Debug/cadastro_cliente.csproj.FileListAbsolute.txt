@@ -1,0 +1,10 @@
+D:\Thiago\Dev\projetos\cadastro_cliente\bin\Debug\cadastro_cliente.exe.config
+D:\Thiago\Dev\projetos\cadastro_cliente\bin\Debug\cadastro_cliente.exe
+D:\Thiago\Dev\projetos\cadastro_cliente\bin\Debug\cadastro_cliente.pdb
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.csproj.AssemblyReference.cache
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.frmCadCliente.resources
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.Properties.Resources.resources
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.csproj.GenerateResource.cache
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.csproj.CoreCompileInputs.cache
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.exe
+D:\Thiago\Dev\projetos\cadastro_cliente\obj\Debug\cadastro_cliente.pdb
